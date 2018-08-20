@@ -7,6 +7,7 @@ UCBAdmissions
 View(UCBAdmissions)
 
 sum(UCBAdmissions)
+summary(UCBAdmissions)
 
 sapply(UCBAdmissions, sum)
 
