@@ -1,10 +1,15 @@
 #UCB ADMISSIONS DATASET
 
+
+
 UCBAdmissions
 #1
 View(UCBAdmissions)
+
 sum(UCBAdmissions)
 summary(UCBAdmissions)
+
+sapply(UCBAdmissions, sum)
 
 #2
 margin.table(UCBAdmissions,margin = 3)
